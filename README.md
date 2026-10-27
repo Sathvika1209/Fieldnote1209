@@ -1,5 +1,9 @@
 This is a student database backup that uses Amazon AWS EC2, RDS and PostgreSQL
 
+<h1> Teammates: 1207, 1209, 1231, 1236 </h1>
+
+
+
 <img width="1916" height="1078" alt="Screenshot 2026-10-20 224709" src="https://github.com/user-attachments/assets/a0e080d7-cd62-45f0-b1a3-53b07738cd67" />
 
 <img width="723" height="601" alt="Screenshot 2026-10-20 224754" src="https://github.com/user-attachments/assets/53e4588b-4c80-4d5b-92ef-e891ac2f0346" />
